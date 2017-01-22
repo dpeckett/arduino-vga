@@ -1,7 +1,7 @@
 # GhettoVGA v0.2 (http://dpeckett.com)
 # No Fuss VGA for the Arduino uno rev3 and similar.
 #
-# Copyright (c) 2015, DAMIAN PECKETT <damian.peckett@gmail.com>
+# Copyright (c) 2015, DAMIAN PECKETT <damian@pecke.tt>
 # All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without
